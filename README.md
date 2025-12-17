@@ -1,7 +1,7 @@
 ### SOCIAL MEDIA SENTIMENT ANALYSIS & CLASSIFICATION
 
 # 1. Project Overview & Objective
-Interviewer-Style Explanation: "My project is a comprehensive Social Media Sentiment Analysis and Classification system. The core objective was twofold: first, to perform an in-depth Exploratory Data Analysis (EDA) 
+"My project is a comprehensive Social Media Sentiment Analysis and Classification system. The core objective was twofold: first, to perform an in-depth Exploratory Data Analysis (EDA) 
 on social media posts to understand user sentiment trends across various platforms, countries, and times; and second, to build and evaluate multiple Machine Learning classification models to accurately predict 
 the sentiment (Positive, Negative, Neutral) of new, unseen text data."
 
